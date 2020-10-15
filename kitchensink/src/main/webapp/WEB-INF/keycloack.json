@@ -1,0 +1,10 @@
+{
+  "realm": "eap-demo",
+  "auth-server-url": "https://keycloak-testa.apps.ocp4.vlan016.cnta.local/auth/",
+  "ssl-required": "external",
+  "resource": "eap-demo",
+  "credentials": {
+    "secret": "client-secret"
+  },
+  "confidential-port": 0
+}
